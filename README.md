@@ -16,7 +16,7 @@ Welcome to my GitHub! I'm passionate about turning data into meaningful insights
 
 ## 📂 Featured Projects
 
-### 📊 [CSRD Power BI Dashboard](https://github.com/FarhanAli-9803/powerbi-sales-dashboard)
+### 📊 [CSRD Power BI Dashboard](https://github.com/FarhanAli-9803/powerbi-CSRD-dashboard)
 Interactive executive dashboard analyzing **Sustainability Data Points** for **European Sustainability Reporting Standards (ESRS)**.  
 Built using Power BI, DAX, and Excel with VBA macros.
 
