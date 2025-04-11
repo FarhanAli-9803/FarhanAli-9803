@@ -8,7 +8,7 @@ Welcome to my GitHub! I'm passionate about turning data into meaningful insights
 ## 🔍 About Me
 
 - 🎓 Currently learning advanced analytics with **Power BI**, **Python**, and **SQL**
-- 💼 Aspiring to land my first role as a **Data Analyst**
+- 💼 Aspiring to land my next role as a **Data Analyst**
 - 🧠 Curious and driven to solve real-world business problems using data
 - 📈 Strong interest in sustainability, business performance, and automation
 
